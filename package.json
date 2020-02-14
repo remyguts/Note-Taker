@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remyguts/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/remyguts/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/remyguts/Note-Taker#readme"
 }
