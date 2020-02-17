@@ -3,11 +3,7 @@ https://notetakerremy.herokuapp.com/notes
 
 ## Purpose / User Story
 
-AS A product manager
-
-I WANT a developer profile generator
-
-SO THAT I can easily prepare reports for stakeholders
+https://notetakerremy.herokuapp.com/notes
 
 
 # Functionality
