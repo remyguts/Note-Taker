@@ -1,46 +1,37 @@
 # Note-Taker
-hhttps://notetakerremy.herokuapp.com/
+https://notetakerremy.herokuapp.com/
 
 ## Purpose / User Story
 
-https://notetakerremy.herokuapp.com/notes
-
+AS A user, I want to be able to write and save notes
+I WANT to be able to delete notes I've written before
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 # Functionality
 
-When using the terminal, the user is prompted to enter their Github profile name, and favorite color. it then uses a Github API to generate user information ont a PDF file using an HTML template, as well as a functional website.  
-### Content Flow
-
+When using the app, first the user opens the page and presses the get started button. Then, they click on the note field and begins writing notes, when the notes are finished the note is saved for future use or editing. 
 
 
 ### Code 
-
-![Screenshot (13)](https://user-images.githubusercontent.com/56744605/73628060-f9eb1200-4603-11ea-9252-d9fbabb529dd.png)
-
-![Screenshot (14)](https://user-images.githubusercontent.com/56744605/73628063-ffe0f300-4603-11ea-8d6a-f19253e7119b.png)
-
-![Screenshot (15)](https://user-images.githubusercontent.com/56744605/73628070-053e3d80-4604-11ea-8390-764070491efe.png)
-
-![Screenshot (16)](https://user-images.githubusercontent.com/56744605/73628083-0bccb500-4604-11ea-8d17-ad47562562eb.png)
-
-Terminal prompts:
-![Screenshot (20)](https://user-images.githubusercontent.com/56744605/73628288-afb66080-4604-11ea-9944-a967ea0ec5b0.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/56744605/74624331-d09aad80-50fc-11ea-95cf-c2473646fe44.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/56744605/74624332-d42e3480-50fc-11ea-8a70-b5e7d47691c8.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/56744605/74624338-d7c1bb80-50fc-11ea-9cea-c65576e93063.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/56744605/74624342-da241580-50fc-11ea-8d18-a02014026e92.png)
 
 
-### PDF View
-
-![Screenshot (17)](https://user-images.githubusercontent.com/56744605/73628398-015eeb00-4605-11ea-841d-2ff50bb40e54.png)
 
 ### Deployed Website View 
-(yes I designed it to look like an old school floppy disk)
 
-![Screenshot (18)](https://user-images.githubusercontent.com/56744605/73628550-6286be80-4605-11ea-9d4c-a1e4e27f1fd2.png)
 
-https://drive.google.com/file/d/1TC92tuoTlgvNQkNDjLZLbLNNcrsAfHQO/preview
 
-## APIs
-
+### Technologies
 Github
+VS CODE
+APIS
+Heroku
+Git Bash
+
+
 
 ## Styles
 
