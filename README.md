@@ -22,6 +22,9 @@ When using the app, first the user opens the page and presses the get started bu
 
 ### Deployed Website View 
 
+![Screenshot (45)](https://user-images.githubusercontent.com/56744605/74624512-8fef6400-50fd-11ea-8b07-21b3a2a54332.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/56744605/74624514-92ea5480-50fd-11ea-8937-7a6df7ce7ef2.png)
+
 
 
 ### Technologies
